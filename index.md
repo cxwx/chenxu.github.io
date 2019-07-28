@@ -17,8 +17,8 @@ I'm Graduate From:
 [HOME page](https://cxwx.github.io/chenxu.github.io/)  
 Now I'm working @ [(IHEP)](http://www.ihep.ac.cn/) majoring in
 AstroParticle physics.  
-My research is Cosmic-ray Physics @ [TibetAS experiment](http://www.icrr.u-tokyo.ac.jp/em/index-j.html) @ Yangbajin.
-![](https://www.google.com/maps/place/Yangbajingzhen,+Damxung,+Lhasa,+Tibet,+China/@30.1025444,90.521673,241m/data=!3m1!1e3!4m5!3m4!1s0x3761813f80b3196f:0x32dc6ce0aedf610d!8m2!3d30.095327!4d90.539259)
+My research is Cosmic-ray Physics @ [TibetAS experiment](http://www.icrr.u-tokyo.ac.jp/em/index-j.html) @
+[Yangbajin](https://www.google.com/maps/place/Yangbajingzhen,+Damxung,+Lhasa,+Tibet,+China/@30.1025444,90.521673,241m/data=!3m1!1e3!4m5!3m4!1s0x3761813f80b3196f:0x32dc6ce0aedf610d!8m2!3d30.095327!4d90.539259)
 I'm also interested in 
 * computational physics 
 * computer science
@@ -36,7 +36,7 @@ below under construction!
 My [pgp](http://pgp.ustc.edu.cn/pks/lookup?search=0x6431C297&op=index) key: [0x6431c297](https://pgp.mit.edu/pks/lookup?op=get&search=0xB02062696431C297)(under test)  
 My [![ORCID iD icon](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0001-6719-1698)  
 My [gitlab](https://git.lug.ustc.edu.cn/chenxu)  
-My [github](https://github.com/cxwx)
+My [github](https://github.com/cxwx)  
 My [twitter](https://twitter.com/search?q=ihep2020)  
 My [facebook]() down!  
 
