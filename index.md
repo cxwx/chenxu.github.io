@@ -27,7 +27,7 @@ I'm also interested in
 
 publication
 * First detection of photons with energy beyond 100 TeV from an astrophysical source,
-M. Amenomori et al., [Physical Review Letters, in press](https://journals.aps.org/prl/accepted/bc074YafQ241106c876588830ab038fcada76d198) (2019) [arXiv](https://arxiv.org/abs/1906.05521)
+M. Amenomori et al., 2019, [Physical Review Letters](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.123.051101),[View Point](https://physics.aps.org/articles/v12/87),[arXiv](https://arxiv.org/abs/1906.05521)
 
 --------------------------------------------------------------
 
@@ -37,8 +37,9 @@ My [pgp](http://pgp.ustc.edu.cn/pks/lookup?search=0x6431C297&op=index) key: [0x6
 My [![ORCID iD icon](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0001-6719-1698)  
 My [gitlab](https://git.lug.ustc.edu.cn/chenxu)  
 My [github](https://github.com/cxwx)  
-My [twitter](https://twitter.com/search?q=ihep2020)  
-My [facebook]() down!  
+My <del>[twitter](https://twitter.com/search?q=ihep2020)</del>     
+My <del>[facebook]()</del>  
+
 
 Thanks for your attention!
 ==========================

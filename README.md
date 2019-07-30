@@ -1,4 +1,3 @@
-=====================================================  
 this part set in vimrc  
 created by Chen Xu  
 email: chenxu@mail.ustc.edu.cn  
