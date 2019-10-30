@@ -1,6 +1,6 @@
-[Welcome](Welcome) to Chen Xu's Page
+Welcome to Chen Xu's Page  <a href="url"><img src="png/panda.jpg" height="64" width="64" ></a>
 ==========================
-![](png/panda.jpg)  
+<!-- ![](png/panda.jpg)  -->
 Please using encoding UTF-8!  
 陈旭(Xu chen)  
 E-mail: [chenxu@ihep.ac.cn](mailto:chenxu@ihep.ac.cn)  
@@ -25,7 +25,7 @@ I'm also interested in
 * algorithm designing
 * ...
 
-###publication
+### publication
 * First detection of photons with energy beyond 100 TeV from an astrophysical source,
 M. Amenomori et al., 2019, [Physical Review Letters](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.123.051101),[View Point](https://physics.aps.org/articles/v12/87),[arXiv](https://arxiv.org/abs/1906.05521)
 
