@@ -49,7 +49,7 @@ My [tutanota email](mailto:chenxu@tutanota.com
 Thanks for your attention!
 ==========================
 
-[this is sub test](sub/test.md)
+[this is sub test v2](sub/test.md)
 
 <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
 {% include lib/mathjax.html %}
