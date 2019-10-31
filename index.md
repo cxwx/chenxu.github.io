@@ -43,10 +43,15 @@ My <del>[wordpress]()</del>
 My [tutanota email](mailto:chenxu@tutanota.com
 )
 
+[![](https://www.clustrmaps.com/map_v2.png?d=-SvaW1rNLJHbJW2rbPk6w8DxmaTl8l0C8fLGqzrNlCE&cl=ffffff)](https://clustrmaps.com/site/1atth)
+
 
 Thanks for your attention!
 ==========================
 
 [this is sub test](sub/test.md)
 
-[![](https://www.clustrmaps.com/map_v2.png?d=-SvaW1rNLJHbJW2rbPk6w8DxmaTl8l0C8fLGqzrNlCE&cl=ffffff)](https://clustrmaps.com/site/1atth)
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+{% include lib/mathjax.html %}
+
+test formula $$\forall x \in R$$
