@@ -51,7 +51,6 @@ Thanks for your attention!
 
 [this is sub test v2](sub/test.md)
 
-<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
-{% include lib/mathjax.html %}
-
 test formula $$\forall x \in R$$
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=x_ix_i&plus;3g=\frac{3}{y}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?x_ix_i&plus;3g=\frac{3}{y}" title="x_ix_i+3g=\frac{3}{y}" /></a>
